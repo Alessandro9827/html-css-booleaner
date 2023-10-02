@@ -1,0 +1,78 @@
+header {
+    background-color: rgb(78, 155, 255);
+    background-image: url('img/pattern.png');
+    background-position: center;
+    background-size: 35%;
+    height: 100px;
+    position: relative;
+}
+
+.logo-banner {
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+}
+
+.booleaner-blu {
+    color: rgb(78, 155, 255);
+}
+
+.description-photos {
+    font-size: small;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+table {
+    text-align: left;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: rgb(32, 169, 229);
+}
+
+tbody {
+    background-color: rgb(177, 229, 242);
+}
+
+/*tr:nth-child(odd ) {
+    background-color: rgb(177, 229, 242);
+}
+*/
+
+.photo-uno {
+    height: 200px;
+    width: 300px;
+    background-image: url(img/monitor.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+
+.photo-due {
+    background-image: url(img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.footer-title {
+    color: grey;
+}
+
+.photo-uno span{
+    color: white;
+    font-weight:bolder;
+    margin-left: 10px;
+}
+
+.photo-due span {
+    color: white;
+    font-weight:bolder;
+    margin-left: 10px;
+}
