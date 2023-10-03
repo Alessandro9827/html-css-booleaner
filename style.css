@@ -13,30 +13,32 @@ header {
     bottom: 0;
 }
 
-.booleaner-blu {
-    color: rgb(78, 155, 255);
+.font-light-grey{
+    color: #7f7f7f;
 }
 
-.description-photos {
-    font-size: small;
+.font-light-blue{
+    color: #25aae4;
+}
+
+.font-color-white{
+    color: white;
 }
 
 .highlighted {
     background-color: yellow;
 }
 
-table {
-    text-align: left;
-    border-spacing: 0;
+table{
     border-collapse: collapse;
 }
 
-thead {
-    background-color: rgb(32, 169, 229);
+thead{
+    background-color: #20a8e4;
 }
 
-tbody {
-    background-color: rgb(177, 229, 242);
+.bg-light-blue{
+    background-color: #b0e4f1;
 }
 
 /*tr:nth-child(odd ) {
